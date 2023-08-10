@@ -16,7 +16,7 @@
 #### 3. Información de Usuarios: 
 ##### - Muestra la información de `usuario1` usando el comando `id`.
 
- ![Estructura](Imagenes/4.1.PNG)
+ ![Estructura](Imagenes/4.2.PNG)
 
 #### 4. Eliminación de Usuarios: 
 ##### - Elimina `usuario3`, pero conserva su directorio principal.
