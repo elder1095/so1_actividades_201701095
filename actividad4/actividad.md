@@ -15,12 +15,12 @@
 
 ### - Paso #3
 #### Habilitar e iniciar el servicio con los siguientes comandos
-###`sudo systemctl enable saludo.service`
+`sudo systemctl enable saludo.service`
 
-###`sudo systemctl start saludo.service`
+`sudo systemctl start saludo.service`
 
 ### - Paso #4
 #### Mostrar el estado y contenido del servicio mediante el comando.
-###`systemctl status mi_servicio`
+`systemctl status mi_servicio`
 
 ![Estructura](Imagenes/3.PNG)
