@@ -1,0 +1,8 @@
+[Unit]
+Description = Servicio que proporciona un saludo y la fecha actual
+
+[Service]
+ExecStart=/usr/local/bin/saludo.sh
+
+[Install]
+WantedBy=default.target
